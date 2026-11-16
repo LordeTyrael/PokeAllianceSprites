@@ -17,6 +17,4 @@ Folders on GitHub cap at 1,000 files, split by id range (`itens/00000-00999/`, `
 
 The PNGs are bare: `IHDR`, `IDAT`, `IEND` and nothing else.
 
----
-
 Pokémon and all related names, characters, and assets are trademarks and copyrights of Nintendo, Creatures Inc., GAME FREAK inc., and The Pokémon Company. Engine assets derived from Tibia are property of CipSoft GmbH.
