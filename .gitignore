@@ -1,0 +1,7 @@
+# arquivos de sistema do Windows
+desktop.ini
+Thumbs.db
+
+# artefatos grandes que nao devem ser versionados
+*.spr
+assets.zip
